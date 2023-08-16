@@ -1,0 +1,6 @@
+{
+  "name": "deno-react-app",
+  "entrypoint": "src/index.js",
+  "browser": "src/index.js"
+}
+
